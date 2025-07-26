@@ -1,4 +1,4 @@
-# 🛠️ Intro Python Scripts for Cybersecurity
+# Intro Python Scripts for Cybersecurity
 
 A collection of beginner-friendly Python scripts designed to support practical cybersecurity workflows. This repo includes tools for file integrity checking and basic WiFi network scanning, using only standard libraries and free software. Built to be lightweight, accessible, and adaptable for both learning and real-world tasks.
 
